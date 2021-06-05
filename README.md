@@ -4,7 +4,7 @@ Herramienta para acortar enlaces.
 
 Ejecutar desde un IDE de python.
 
-#Install
+# Install
 
 
 $ pip install requests
